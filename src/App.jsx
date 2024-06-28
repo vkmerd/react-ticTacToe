@@ -93,7 +93,7 @@ export default function App() {
         <div className="formContainer">
           <h1>Tic Tac Toe oyununa hoşgeldiniz!</h1>
           <form onSubmit={playerName} className="playerNameForm">
-            <input type="text" name="playerName" placeholder="Oyuncu Adını Giriniz" />
+            <input type="text" name="playerName" placeholder="Oyuncu Adını Giriniz" required/>
             <button type="submit">Başla!</button>
           </form>
         </div>
