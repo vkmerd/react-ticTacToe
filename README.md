@@ -53,3 +53,6 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 - `components/GameFunctions.js`: Oyun mantığını içeren fonksiyonlar.
 - `App.css`: Uygulama stili.
 - `package.json`: Proje bağımlılıkları ve script'ler.
+
+
+Proje linkine https://react-tic-tac-toe-ten-phi.vercel.app/ adresinden ulaşabilirsiniz.
